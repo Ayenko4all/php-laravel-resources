@@ -1,7 +1,7 @@
-/node_modules
-/public/build
-/public/hot
-/public/storage
+
+
+
+/dmo-savings-bond-portal/storage/logs
 
 /hasob-foundation-core-bs-5/storage/*.key
 /dmo-savings-bond-portal/storage/*.key
